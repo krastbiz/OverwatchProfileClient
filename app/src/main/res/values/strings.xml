@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OverwatchAPI</string>
+    <string name="fail">The user with the information provided can not be found</string>
+    <string-array name="region_array">
+        <item>eu</item>
+        <item>us</item>
+        <item>kr</item>
+        <item>cn</item>
+    </string-array>
+    <string-array name="platform_array">
+        <item>pc</item>
+        <item>xbox</item>
+        <item>ps</item>
+    </string-array>
+</resources>
